@@ -11,7 +11,6 @@ install:
 	cd public && git remote add stopipv.github.io git@github.com:stopipv/stopipv.github.io && cd ..
 
 compile:
-	rm -rf public/
 	hugo --theme=$(THEME)
 	
 publish: 
@@ -21,7 +20,6 @@ publish:
 	git push origin master
 	hugo --theme=$(THEME)
 	@echo "Deploying public/ to 'stopipv/stopipv.github.io' repo..."
-	#git submodule foreach git push stopipv.github.io master
 	./deploy.sh
 	#git subtree push --prefix=public git@github.com:stopipv/$(CNAME).git master
 
