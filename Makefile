@@ -22,7 +22,8 @@ publish:
 	hugo --theme=$(THEME)
 	@echo "Deploying public/ to 'stopipv/stopipv.github.io' repo..."
 	#git submodule foreach git push stopipv.github.io master
-	git subtree push --prefix=public git@github.com:stopipv/$(CNAME).git master
+	./deploy.sh
+	#git subtree push --prefix=public git@github.com:stopipv/$(CNAME).git master
 
 ${CNAME}.zip:
 	git archive --format=zip HEAD -o $@ -9v
