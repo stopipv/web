@@ -4,13 +4,22 @@ dist: trusty
 git:
     submodules: false
 
-install:
-  - sudo apt-get --yes install snapd
-  - sudo snap install hugo
+env:
+  global:
+  - HUGO_VERSION=0.40  # set in the environment to make it easy 
+
+before_install:
+  - mkdir -p bin
+  - curl -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o bin/hugo.tar.gz
+  - tar xzvvf bin/hugo.tar.gz -C ./bin
+
+#install:
+#  - sudo apt-get --yes install snapd
+#  - sudo snap install hugo
 
 script:
-  - /snap/bin/hugo -t hugo-material-blog  # This commands builds your website on travis
-  - echo "www.ipvtechresearch.org" > CNAME
+  #- /snap/bin/hugo -t hugo-material-blog  # This commands builds your website on travis
+  - ./bin/hugo -t hugo-material-blog  # This commands builds your website on travis
 
 deploy:
   local_dir: public # Default static site output dir for Hugo
