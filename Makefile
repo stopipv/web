@@ -8,7 +8,7 @@ develop:
 
 install:
 	git submodule add -b master git@github.com:stopipv/stopipv.github.io.git public
-	cd public && git remote add stopipv.github.io git@github.com:stopipv/stopipv.github.io && cd ..
+	chmod +x deploy.sh
 
 compile:
 	hugo --theme=$(THEME)

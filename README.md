@@ -1,7 +1,8 @@
 # stopipv
 
 ## How to edit the site
-1. Install [Hugo](https://gohugo.io) on your machine. Mac OS: `brew install hugo`. Windows: `choco install hugo -confirm`. Linux: `snap install hugo`. Install `make` (generally available on macOS with [XCode](https://developer.apple.com/xcode/) installed, and on Linux by default).
+0. Install [Hugo](https://gohugo.io) on your machine. Mac OS: `brew install hugo`. Windows: `choco install hugo -confirm`. Linux: `snap install hugo`. Install `make` (generally available on macOS with [XCode](https://developer.apple.com/xcode/) installed, and on Linux by default).
+1. Run `make install` to get the deployment submodule and script.
 2. Refer to [general Hugo tips/documentation](https://gohugo.io/getting-started/) as needed to
    orient yourself to the tool.
 3. To start a `localhost:1313` view of the website (automatically rebuilds when you
