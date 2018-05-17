@@ -20,7 +20,7 @@ publish:
 	git push origin master
 	hugo --theme=$(THEME)
 	@echo "Deploying public/ to 'stopipv/stopipv.github.io' repo..."
-	./deploy.sh
+	#./deploy.sh
 	#git subtree push --prefix=public git@github.com:stopipv/$(CNAME).git master
 
 ${CNAME}.zip:
