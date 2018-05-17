@@ -13,7 +13,7 @@ install:
 compile:
 	rm -rf public/
 	hugo --theme=$(THEME)
-
+	
 publish: 
 	rm -rf public/
 	@echo "Deploying source code to 'stopipv/web' repo..."
