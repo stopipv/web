@@ -15,7 +15,6 @@ compile:
 	hugo --theme=$(THEME)
 	
 publish: 
-	rm -rf public/
 	@echo "Deploying source code to 'stopipv/web' repo..."
 	git add -A
 	git commit -m "${MSG}"
@@ -23,8 +22,7 @@ publish:
 	hugo --theme=$(THEME)
 	@echo "Deploying public/ to 'stopipv/stopipv.github.io' repo..."
 	#git submodule foreach git push stopipv.github.io master
-	#git subtree push --prefix=public git@github.com:stopipv/$(CNAME).git master
-	git subtree push --prefix=public origin gh-pages
+	git subtree push --prefix=public git@github.com:stopipv/$(CNAME).git master
 
 ${CNAME}.zip:
 	git archive --format=zip HEAD -o $@ -9v
