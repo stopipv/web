@@ -32,7 +32,7 @@ draft: false
   </div>
   <div class="container">
     <img class="middle-img" src="/images/SamHavron.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/>
-    <p>**[Sam Havron](https://sam.havron.xyz)**<br>[Cornell Tech](https://tech.cornell.edu)</p>
+    <p>**[Sam Havron](https://havron.xyz)**<br>[Cornell Tech](https://tech.cornell.edu)</p>
   </div>
   <div class="container">
     <img class="middle-img" src="/images/RahulChatterjee.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/>
