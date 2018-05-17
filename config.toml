@@ -1,7 +1,7 @@
-baseURL = "https://stopipv.github.io/"
+baseURL = "http://www.ipvtechresearch.org"
 languageCode = "en-us"
-title = "Technology and Intimate Partner Violence (IPV)"
-theme = "amp"
+title = "IPV Tech Research"
+theme = "hugo-material-blog"
 
 [params]
 description = "Improving digital safety, security, and privacy for survivors of intimate partner violence"
@@ -10,27 +10,32 @@ description = "Improving digital safety, security, and privacy for survivors of 
 plainIDAnchors = true
 hrefTargetBlank = true
 
+[[menu.main]]
+name = "About"
+weight = 1
+identifier = "about-1"
+url = "/post/about/"
 
 [[menu.main]]
-name = "people"
+name = "People"
 weight = 2
 identifier = "people-1"
 url = "/post/people/"
 
 [[menu.main]]
-name = "publications"
+name = "Publications"
 weight = 3
 identifier = "publications-1"
 url = "/post/publications/"
 
 [[menu.main]]
-name = "community partners"
+name = "Community Partners"
 weight = 4
 identifier = "community-partners-1"
 url = "/post/community-partners/"
 
 [[menu.main]]
-name = "funding"
+name = "Funding"
 weight = 5
 identifier = "funding-1"
 url = "/post/funding/"

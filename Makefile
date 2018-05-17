@@ -1,14 +1,10 @@
 .PHONY: develop compile publish
-THEME=amp
+THEME=hugo-material-blog
 CNAME=stopipv.github.io
 MSG=rebuilt ${CNAME}
 
 develop:
 	hugo server --theme=$(THEME) --watch --buildDrafts
-
-#install:
-#	git submodule add -b master git@github.com:stopipv/stopipv.github.io.git public
-#	chmod +x deploy.sh
 
 compile:
 	hugo --theme=$(THEME)
@@ -18,8 +14,7 @@ publish:
 	git add -A
 	git commit -m "${MSG}"
 	git push origin master
-	hugo --theme=$(THEME)
-	#./deploy.sh
+	@echo "Check https://travis-ci.org/stopipv/web for build/deploy progress (about 5 minutes)."
 
 ${CNAME}.zip:
 	git archive --format=zip HEAD -o $@ -9v

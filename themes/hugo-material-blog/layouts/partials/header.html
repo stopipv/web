@@ -1,6 +1,6 @@
 {{ define "menu-item" }}
 <li>
-    <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+    <a class="black-text" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
 </li>
 {{ end }}
 
@@ -13,7 +13,7 @@
                 {{ end }}
             </ul>
             <li>
-                <a class="dropdown-button white-text" href="#!" data-activates="{{ $.Scratch.Get "id" }}-{{ $index }}">{{ $menu.Name }}
+                <a class="dropdown-button black-text" href="#!" data-activates="{{ $.Scratch.Get "id" }}-{{ $index }}">{{ $menu.Name }}
                     <i class="material-icons right">arrow_drop_down</i>
                 </a>
             </li>
@@ -24,11 +24,11 @@
     {{ $.Scratch.Delete "id" }}
 {{ end }}
 
-<nav style="background-color: #800080;" role="navigation">
+<nav class="white" role="navigation">
     <div class="row max-width">
-        <div class="col s12 m13 l10 offset-l1">
+        <div class="col s12 l10 offset-l1">
             <!-- Hamburger menu -->
-            <a href="#" data-activates="nav-mobile" class="button-collapse">
+            <a href="#" data-activates="nav-mobile" class="button-collapse black-text">
                 <i class="material-icons">menu</i>
             </a>
 
@@ -39,7 +39,7 @@
             </ul>
 
             <!-- Brand -->
-            <a href="{{ .Site.BaseURL | relLangURL }}" class="brand-logo">{{ partial "brand" . }}</a>
+            <a href="{{ .Site.BaseURL | relLangURL }}" class="brand-logo grey-text text-darken-3">{{ partial "brand" . }}</a>
 
             <!-- Navigation container -->
             <div class="nav-wrapper">
