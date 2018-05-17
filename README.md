@@ -1,6 +1,6 @@
 # stopipv
 
-## How to edit the site
+## How to edit the site [![Build Status](https://travis-ci.org/stopipv/web.svg?branch=master)](https://travis-ci.org/stopipv/web)
 0. Install [Hugo](https://gohugo.io) on your machine. Mac OS: `brew install hugo`. Windows: `choco install hugo -confirm`. Linux: `snap install hugo`. Install `make` (generally available on macOS with [XCode](https://developer.apple.com/xcode/) installed, and on Linux by default).
 1. Run `make install` to get the deployment submodule and script.
 2. Refer to [general Hugo tips/documentation](https://gohugo.io/getting-started/) as needed to
