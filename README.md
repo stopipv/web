@@ -26,4 +26,4 @@ view the build progress live by clicking the green badge at the top of this READ
    false` in the file before publishing!
    
 ## Need help?
-Email <sam@havron.xyz> or reach me on [Cornell's slack](https://cornellcis.slack.com). I'm happy to help with site development or answer questions.
+Email <sam@havron.xyz> or reach me on [Cornell's slack](https://cornellcis.slack.com) (username @sam). I'm happy to help with site development or answer questions.
