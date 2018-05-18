@@ -18,6 +18,10 @@ Office to Combat Domestic Violence (OCDV)</a></p>
   <p><a href="https://nnedv.org/">National Network to End Domestic Violence (NNEDV)</a></p>
   <img class="middle-img" src="/images/NNEDV_logo.jpg" style="width: 200px; max-height: 300px;"/>
 </th>
+</thead>
+ </table>
+ <table>
+  <thead>
 <th>
   <p><a href="https://www.symantec.com">Symantec</a></p>
   <img class="middle-img" src="/images/symantec.png" style="width: 200px; max-height: 300px;"/>
