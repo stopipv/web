@@ -9,12 +9,12 @@ research.
 <table>
 <tr>
 <thead>
-<th><img class="middle-img" src="/images/NSF logo.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/>
+<th width="10px"><img class="middle-img" src="/images/NSF logo.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/>
 </th>
-<th>
+<th  width="10px">
     <img class="middle-img" src="/images/Google logo.png" style="object-fit: cover;width: 200px; max-height: 200px;"/>
 </th>
-<th>
+<th width="10px">
     <img class="middle-img" src="/images/engaged.png" style="object-fit: cover;width: 200px; max-height: 200px;"/>
 </th>
 </thead>
