@@ -1,7 +1,11 @@
 # stopipv
 
 ## How to edit the site [![Build Status](https://travis-ci.org/stopipv/web.svg?branch=master)](https://travis-ci.org/stopipv/web)
-1. Install [Hugo](https://gohugo.io) on your machine. Mac OS: `brew install hugo`. Windows: `choco install hugo -confirm`. Linux: `snap install hugo`. Install `make` (generally available on macOS with [XCode](https://developer.apple.com/xcode/) installed, and on Linux by default).
+0. You can edit directly on GitHub -- no installation necessary! click on the
+   build badge to see the site build automatically. Navigate to
+http://www.ipvtechresearch.org to see your changes when the build completes
+(about 2 minutes).
+1. If you want to edit locally (benefit: see the final website output in real time before pushing updates), install [Hugo](https://gohugo.io) on your machine. Mac OS: `brew install hugo`. Windows: `choco install hugo -confirm`. Linux: `snap install hugo`. Then, install `make` (generally available on macOS with [XCode](https://developer.apple.com/xcode/) installed, and on Linux by default).
 2. Refer to [general Hugo tips/documentation](https://gohugo.io/getting-started/) as needed to
    orient yourself to the tool.
 3. To start a `localhost:1313` view of the website (automatically rebuilds when you
@@ -14,10 +18,9 @@ the server rebuild the site whenever you save changes to a file. The
 5. For quick CSS modifications, add to the last few lines of
    `static/css/style.css`.
 6. When you're ready to push your changes, stop the server and run `make
-   publish`. This will push the source code to https://github.com/stopipv/web.
-Builds automatically on [Travis CI](https://travis-ci.org). Check [the
-site](https://stopipv.github.io) after a few minutes for the update (you can
-view the build live at the badge above).
-and the generated content to https://github.com/stopipv/stopipv.github.io using .
+   publish` (or just push a commit on your own). 
+This will push the source code to https://github.com/stopipv/web, and trigger an automatic build/deploy cycle on [Travis CI](https://travis-ci.org). Check [the
+site](www.ipvtechresearch.org) after a few minutes for the update (you can
+view the build progress live by clicking the green badge above).
 7. To make a new page, run `hugo new post/newPageName.md`. Be sure to set `draft:
    false` in the file before publishing!
