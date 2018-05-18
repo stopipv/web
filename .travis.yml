@@ -1,4 +1,3 @@
-sudo: true
 dist: trusty
 
 git:
@@ -13,12 +12,7 @@ before_install:
   - curl -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o bin/hugo.tar.gz
   - tar xzvvf bin/hugo.tar.gz -C ./bin
 
-#install:
-#  - sudo apt-get --yes install snapd
-#  - sudo snap install hugo
-
 script:
-  #- /snap/bin/hugo -t hugo-material-blog  # This commands builds your website on travis
   - ./bin/hugo -t hugo-material-blog  # This commands builds your website on travis
 
 deploy:
@@ -30,6 +24,6 @@ deploy:
   github_token: $GITHUB_TOKEN # This is the authentication which you will setup in the next step in travis-ci dashboard
   email: sgh65@cornell.edu
   name: "havron"
-  keep-history: true
+  keep-history: false
   on:
     branch: master
