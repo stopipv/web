@@ -52,3 +52,7 @@ div.container {
 p {
     text-align:left;
 }
+
+.side-nav {
+  background-color: #800080;
+}
