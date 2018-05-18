@@ -3,7 +3,7 @@ title: "About"
 date: 2018-05-17T19:29:39-04:00
 draft: false
 ---
-# About 
+<br>
 Intimate Partner Violence (IPV) is a pervasive societal problem, affecting
 roughly one third of all women and one quarter of all men. It can ruin lives 
 and, in an unsettlingly high fraction of cases, culminate in murder of the

@@ -3,8 +3,7 @@ title: "Publications"
 date: 2018-05-16T14:25:44-04:00
 draft: false
 ---
-# Publications
-
+<br>
 Rahul Chatterjee, Periwinkle Doerfler, Hadas Orgad, Sam Havron, Jackeline
 Palmer, Diana Freed, Karen Levy, Nicola Dell, Damon McCoy, and Thomas
 Ristenpart.<br>

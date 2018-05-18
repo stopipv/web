@@ -3,7 +3,7 @@ title: "People"
 date: 2018-05-16T14:25:38-04:00
 draft: false
 ---
-## Faculty
+#### Faculty
   <table>
   <thead>
   <tr>
@@ -18,7 +18,7 @@ draft: false
   </thead>
 </table>
 <table>
-## PhD Students
+#### PhD Students
   <thead>
   <th width="10px"> <img class="middle-img" src="/images/RahulChatterjee.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/> <p>**[Rahul Chatterjee](https://www.cs.cornell.edu/~rahul/)**<br>[Cornell Tech](https://tech.cornell.edu)</p>
   </th>
@@ -29,7 +29,7 @@ draft: false
   <th width="10px"><img class="middle-img" src="/images/SamHavron.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/><p>**[Sam Havron](https://sam.havron.xyz)**<br>[Cornell Tech](https://tech.cornell.edu)</p></th>
 </thead>
 <table>
-## Masters and Undergraduate Students
+#### Masters and Undergraduate Students
   <thead>
   <th width="10px">
   <p>**Summer Chi**<br>[Cornell Tech](https://tech.cornell.edu)</p>
