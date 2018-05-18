@@ -3,11 +3,10 @@ title: "People"
 date: 2018-05-16T14:25:38-04:00
 draft: false
 ---
-# People
- <table>
+## Faculty
+  <table>
   <thead>
   <tr>
-## Faculty
   <th width="10px">  <img class="middle-img" src="/images/NicolaDell.jpg" style="object-fit: cover;width: 245px; max-height: 200px;"/> <p>**[Nicola Dell](http://www.nixdell.com)**<br>[Cornell Tech](https://tech.cornell.edu)</p>
   </th>
   <th width="10px"><img class="middle-img" src="/images/KarenLevy.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/><p>**[Karen Levy](http://www.karen-levy.net)**<br>[Cornell](https://www.cornell.edu)</p>
