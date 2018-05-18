@@ -1,4 +1,4 @@
-baseURL = "http://www.ipvtechresearch.org"
+baseURL = "https://www.ipvtechresearch.org"
 languageCode = "en-us"
 title = "IPV Tech Research"
 theme = "hugo-material-blog"
@@ -14,7 +14,7 @@ hrefTargetBlank = true
 name = "About"
 weight = 1
 identifier = "about-1"
-url = "/post/about/"
+url = "/"
 
 [[menu.main]]
 name = "People"
@@ -29,10 +29,10 @@ identifier = "publications-1"
 url = "/post/publications/"
 
 [[menu.main]]
-name = "Community Partners"
+name = "Partners"
 weight = 4
-identifier = "community-partners-1"
-url = "/post/community-partners/"
+identifier = "partners-1"
+url = "/post/partners/"
 
 [[menu.main]]
 name = "Funding"
