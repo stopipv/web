@@ -1,4 +1,4 @@
-# stopipv/web (the source code for https://github.com/stopipv/stopipv.github.io)
+# stopipv/web (the source code for [the website](https://www.ipvtechresearch.org))
 
 ## _How_ to edit the site [![Build Status](https://travis-ci.org/stopipv/web.svg?branch=master)](https://travis-ci.org/stopipv/web)
 0. You can edit files directly on GitHub -- no cloning or other installation necessary! Note that images won't render in preview mode when you're editing on GitHub, this is normal, the file path is purposely set up under `static/images/` for [Hugo](https://gohugo.io), the site's compilation tool. When you're done editing content, save your commit(s) and the [website](https://www.ipvtechresearch.org) will be updated within a couple minutes. Click on this
