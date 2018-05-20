@@ -7,8 +7,8 @@ draft: false
 Rahul Chatterjee, Periwinkle Doerfler, Hadas Orgad, Sam Havron, Jackeline
 Palmer, Diana Freed, Karen Levy, Nicola Dell, Damon McCoy, and Thomas
 Ristenpart.<br>
-"The Spyware Used in Intimate Partner Violence."<br>
-_IEEE Symposium on Security and Privacy (Oakland 2018)_.
+["The Spyware Used in Intimate Partner Violence."](/pubs/spyware.pdf)<br>
+_IEEE Symposium on Security and Privacy (Oakland 2018)_. [pdf](/pubs/spyware.pdf).
 <br><br>
 
 Diana Freed, Jackeline Palmer, Diana Minchala, Karen Levy, Thomas Ristenpart,
