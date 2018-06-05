@@ -39,3 +39,9 @@ name = "Funding"
 weight = 5
 identifier = "funding-1"
 url = "/post/funding/"
+
+[[menu.main]]
+name = "Software"
+weight = 6
+identifier = "software-1"
+url = "/post/software/"

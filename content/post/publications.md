@@ -8,7 +8,7 @@ Rahul Chatterjee, Periwinkle Doerfler, Hadas Orgad, Sam Havron, Jackeline
 Palmer, Diana Freed, Karen Levy, Nicola Dell, Damon McCoy, and Thomas
 Ristenpart.<br>
 ["The Spyware Used in Intimate Partner Violence."](/pubs/spyware.pdf)<br>
-_IEEE Symposium on Security and Privacy (Oakland 2018)_. [pdf](/pubs/spyware.pdf).
+_IEEE Symposium on Security and Privacy (Oakland 2018)_. [pdf](/pubs/spyware.pdf). Media coverage: [The New York Times](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html), [Vox](https://www.vox.com/the-big-idea/2018/5/21/17374434/intimate-partner-violence-spyware-domestic-abusers-apple-google), [Freedom to Tinker (Princeton CITP)](https://freedom-to-tinker.com/2018/02/23/how-tech-is-failing-victims-of-intimate-partner-violence-thomas-ristenpart-at-citp/).
 <br><br>
 
 Diana Freed, Jackeline Palmer, Diana Minchala, Karen Levy, Thomas Ristenpart,
