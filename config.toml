@@ -45,3 +45,10 @@ name = "Software"
 weight = 6
 identifier = "software-1"
 url = "/post/software/"
+
+
+[[menu.main]]
+name = "Guides"
+weight = 7
+identifier = "guides-1"
+url = "/post/guides/"
