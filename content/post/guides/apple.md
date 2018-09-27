@@ -1,5 +1,5 @@
 ---
-title: "Apple iOS App Purchase History"
+title: "View Full Apple iOS App Purchase History"
 date: 2018-09-27T12:06:53-04:00
 draft: false
 ---
@@ -21,3 +21,7 @@ Now on your account information page, navigate to "iTunes in the Cloud" and clic
 
 An iOS app is typically installed at the time of purchase, although it is only possible on iOS devices to infer an app's installation date by looking at its purchase date. Please let us know if we can assist in this procedure; we understand that it is not simple or intuitive. **If you do not have access to macOS or Windows**, it is still possible to learn the names of hidden app purchases on an iOS device (but **not** the purchase date) by following these instructions under the "Redownload hidden iOS apps" section: https://support.apple.com/en-us/HT201322.
 
+###### **Original Publish Date**: _September 27th, 2018_
+**Note about the freshness of this guide**: If the mechanisms to access this
+information have changed since the publish date, please let us know and we will update this guide
+appropriately.
