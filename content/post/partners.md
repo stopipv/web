@@ -10,9 +10,9 @@ We are fortunate to collaborate with a fantastic group of partners and partner o
   <thead>
   <tr>
 <th>
-  <img class="middle-img" src="/images/OCDV logo.png" style="max-height: 300px;"/>
+  <img class="middle-img" src="/images/ENDGBV_logo.png" style="max-height: 300px;"/>
   <p><a href="http://www1.nyc.gov/site/ocdv/index.page">New York City Mayor's
-Office to Combat Domestic Violence (OCDV)</a></p>
+Office to End Domestic and Gender-Based Violence (ENDGBV)</a></p>
 </th>
 <th>
   <img class="middle-img" src="/images/symantec.png" style="width: 200px; max-height: 300px;"/>
