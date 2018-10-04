@@ -24,7 +24,7 @@ draft: false
   </th>
   <th width="10px"> <img class="middle-img" src="/images/PeriwinkleDoerfler.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/> <p>**[Peri Doerfler](https://www.linkedin.com/in/periwinkle-doerfler-67914667)**<br>[NYU](https://www.nyu.edu)</p>
   </th>
-  <th width="10px"><img class="middle-img" src="/images/DianaFreed.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/> <p>**[Diana Freed](http://infosci.cornell.edu/forward-thinking-people/phds/diana-freed)**<br>[Cornell Tech](https://tech.cornell.edu)</p>
+  <th width="10px"><img class="middle-img" src="/images/DianaFreed.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/> <p>**[Diana Freed](https://infosci.cornell.edu/content/freed)**<br>[Cornell Tech](https://tech.cornell.edu)</p>
   </th>
   <th width="10px"><img class="middle-img" src="/images/SamHavron.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/><p>**[Sam Havron](https://sam.havron.xyz)**<br>[Cornell Tech](https://tech.cornell.edu)</p></th>
 </thead>
