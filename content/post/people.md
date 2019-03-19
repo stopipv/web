@@ -26,7 +26,7 @@ draft: false
   </th>
   <th width="10px"><img class="middle-img" src="/images/DianaFreed.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/> <p>**[Diana Freed](https://infosci.cornell.edu/content/freed)**<br>[Cornell Tech](https://tech.cornell.edu)</p>
   </th>
-  <th width="10px"><img class="middle-img" src="/images/SamHavron.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/><p>**[Sam Havron](https://sam.havron.xyz)**<br>[Cornell Tech](https://tech.cornell.edu)</p></th>
+  <th width="10px"><img class="middle-img" src="/images/SamHavron.jpg" style="object-fit: cover;width: 200px; max-height: 200px;"/><p>**[Sam Havron](https://havron.dev)**<br>[Cornell Tech](https://tech.cornell.edu)</p></th>
 </thead>
 <table>
 #### Masters and Undergraduate Students
