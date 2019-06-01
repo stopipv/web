@@ -20,35 +20,35 @@ url = "/"
 name = "People"
 weight = 2
 identifier = "people-1"
-url = "/post/people/"
+url = "/people/"
 
 [[menu.main]]
 name = "Publications"
 weight = 3
 identifier = "publications-1"
-url = "/post/publications/"
+url = "/publications/"
 
 [[menu.main]]
 name = "Partners"
 weight = 4
 identifier = "partners-1"
-url = "/post/partners/"
+url = "/partners/"
 
 [[menu.main]]
 name = "Funding"
 weight = 5
 identifier = "funding-1"
-url = "/post/funding/"
+url = "/funding/"
 
 [[menu.main]]
-name = "Software"
+name = "Resources"
 weight = 6
-identifier = "software-1"
-url = "/post/software/"
+identifier = "resources-1"
+url = "/resources/"
 
 
 #[[menu.main]]
 #name = "Guides"
 #weight = 7
 #identifier = "guides-1"
-#url = "/post/guides/"
+#url = "/guides/"

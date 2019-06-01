@@ -19,5 +19,7 @@ research.
 <thead>
 <th width="10px"> <img class="middle-img" src="/images/engaged.png" style="object-fit: cover;width: 150px; max-height: 200px;"/>
 </th>
+<th width="10px"> <img class="middle-img" src="/images/fb.png" style="object-fit: cover;width: 150px; max-height: 200px;"/>
+</th>
 </thead>
 </table>

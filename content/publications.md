@@ -3,7 +3,16 @@ title: "Publications"
 date: 2018-05-16T14:25:44-04:00
 draft: false
 ---
+
 <br>
+Sam Havron\*, Diana Freed\*, Rahul Chatterjee,
+Damon McCoy, Nicola Dell, and Thomas
+Ristenpart.<br>
+"Clinical Computer Security for Victims of Intimate Partner Violence."<br>
+_28th USENIX Security Symposium (USENIX Security 2019)_ **(to appear)**.
+<br><br>
+
+
 Rahul Chatterjee, Periwinkle Doerfler, Hadas Orgad, Sam Havron, Jackeline
 Palmer, Diana Freed, Karen Levy, Nicola Dell, Damon McCoy, and Thomas
 Ristenpart.<br>

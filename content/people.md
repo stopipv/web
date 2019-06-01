@@ -32,6 +32,12 @@ draft: false
 #### Masters and Undergraduate Students
   <thead>
   <th width="10px">
+  <p>**Andrea Gallardo**<br>[Cornell Tech](https://tech.cornell.edu), [Queens College](https://www.qc.cuny.edu)</p>
+  </th>
+  <th width="10px">
+  <p>**Emily Tseng**<br>[Cornell Tech](https://tech.cornell.edu)</p>
+  </th>
+  <th width="10px">
   <p>**Summer Chi**<br>[Cornell Tech](https://tech.cornell.edu)</p>
   </th>
   <th width="10px">
